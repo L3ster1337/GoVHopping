@@ -76,6 +76,5 @@ func vlanHop(vlanID uint16) {
 }
 
 func main() {
-	// Exemplo de uso
 	vlanHop(10)
 }
