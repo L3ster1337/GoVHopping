@@ -11,7 +11,7 @@
 This VLAN Hopping tool is developed in Go and utilizes the `gopacket` library to craft and send packets for VLAN hopping attacks. It specifically creates and sends an ARP request encapsulated within a VLAN tagged frame to demonstrate how an attacker might hop from one VLAN to another. This tool is intended for educational purposes and network security testing within environments where you have explicit permission to test.
 <br>
 <br>
-<b>--->Education purposes only, do not test it in airports, c'mon <--- </b>
+<b>---> Education purposes only, do not test it in airports, c'mon <--- </b>
 ## Features
 
 - Craft ARP requests encapsulated in VLAN tagged frames.
